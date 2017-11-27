@@ -182,7 +182,7 @@ function MM_controlSound(x, _sndObj, sndFile) { //v3.0
             <td width="78" height="61">&nbsp;</td>
           </tr>
           <tr>
-            <td height="19" valign="top"><span class="STYLE16"><a href="https://github.com/ReginaZhou/Personal-web/blob/master/html/film" target="_blank" class="a">电 影</a></span></td>
+            <td height="19" valign="top"><span class="STYLE16"><a href="htmlpreview.github.io/?https://github.com/ReginaZhou/Personal-web/blob/master/html/film" target="_blank" class="a">电 影</a></span></td>
           </tr>
         </table></td>
         <td></td>
