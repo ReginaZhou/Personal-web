@@ -1,0 +1,482 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>无标题文档</title>
+<style type="text/css">
+<!--
+.STYLE7 {
+	font-size: 60px;
+	color: #669900;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.STYLE15 {
+	font-size: 20px;
+	font-family: "宋体";
+	color: #669900;
+	font-weight: bold;
+}
+.STYLE16 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #F0F0F0;
+}
+.STYLE18 {
+	color: #FFFFFF;
+	font-size: 20px;
+	font-weight: bold;
+}
+.STYLE20 {font-size: 20px; font-weight: bold; color: #669900; }
+.STYLE25 {
+	color: #F0F0F0;
+	font-weight: bold;
+	font-size: 28px;
+	font-family: "Courier New", Courier, monospace;
+}
+.STYLE26 {
+	font-size: 18px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.STYLE27 {font-size: 17px}
+.STYLE28 {font-size: 16px}
+.STYLE31 {
+	font-size: 18px;
+	color: #666600;
+	font-weight: bold;
+}
+.STYLE32 {
+	font-size: 24px;
+	color: #333300;
+	font-family: "幼圆";
+	font-weight: bold;
+}
+a:link {
+	text-decoration: none;
+	color: #669900;
+}
+a:visited {
+	text-decoration: none;
+	color: #9C9ECD;
+}
+a.a:link {
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_controlSound(x, _sndObj, sndFile) { //v3.0
+  var i, method = "", sndObj = eval(_sndObj);
+  if (sndObj != null) {
+    if (navigator.appName == 'Netscape') method = "play";
+    else {
+      if (window.MM_WMP == null) {
+        window.MM_WMP = false;
+        for(i in sndObj) if (i == "ActiveMovie") {
+          window.MM_WMP = true; break;
+      } }
+      if (window.MM_WMP) method = "play";
+      else if (sndObj.FileName) method = "run";
+  } }
+  if (method) eval(_sndObj+"."+method+"()");
+  else window.location = sndFile;
+}
+//-->
+</script>
+</head>
+
+<body>
+<table width="1340" border="0" cellpadding="0" cellspacing="0" bgcolor="#CCFFFF" onmouseover="MM_controlSound('play','document.CS1397048986749','../music/wuxianda.mp3')">
+  <!--DWLayoutTable-->
+  <tr>
+    <td height="120" colspan="7" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#333333">
+      <!--DWLayoutTable-->
+      <tr>
+        <td width="41" height="17">&nbsp;</td>
+        <td width="111">&nbsp;</td>
+        <td width="39">&nbsp;</td>
+        <td width="159">&nbsp;</td>
+        <td width="91">&nbsp;</td>
+        <td width="80">&nbsp;</td>
+        <td width="40">&nbsp;</td>
+        <td width="80">&nbsp;</td>
+        <td width="46">&nbsp;</td>
+        <td width="78">&nbsp;</td>
+        <td width="42">&nbsp;</td>
+        <td width="81">&nbsp;</td>
+        <td width="43">&nbsp;</td>
+        <td width="78">&nbsp;</td>
+        <td width="45">&nbsp;</td>
+        <td width="79">&nbsp;</td>
+        <td width="43">&nbsp;</td>
+        <td width="80">&nbsp;</td>
+        <td width="84">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="80"></td>
+        <td rowspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#CCCCCC">
+          <!--DWLayoutTable-->
+          <tr>
+            <td width="11" height="80">&nbsp;</td>
+            <td width="98" valign="top" class="STYLE7"> I'M</td>
+          </tr>
+        </table></td>
+        <td>&nbsp;</td>
+        <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <!--DWLayoutTable-->
+          <tr>
+            <td width="23" height="32">&nbsp;</td>
+            <td colspan="2" valign="top"><span class="STYLE25">A GIRL</span></td>
+            <td width="31">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="28">&nbsp;</td>
+            <td width="98">&nbsp;</td>
+            <td width="7">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="16"></td>
+            <td valign="top"><span class="STYLE26"><span class="STYLE27"><span class="STYLE28">R.Eleanore</span></span></span></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td height="4"></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+        </table></td>
+        <td>&nbsp;</td>
+        <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#333333">
+          <!--DWLayoutTable-->
+          <tr>
+            <td width="80" height="59">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="20" valign="top"><span class="STYLE15"><a href="friend.html" target="_blank">Friend</a></span></td>
+          </tr>
+        </table></td>
+        <td>&nbsp;</td>
+        <td rowspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#333333">
+          <!--DWLayoutTable-->
+          <tr>
+            <td width="80" height="60">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="20" valign="top"><span class="STYLE16"><a href="trip.html" target="_blank" class="a">旅 行</a></span></td>
+          </tr>
+        </table></td>
+        <td></td>
+        <td rowspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#333333">
+          <!--DWLayoutTable-->
+          <tr>
+            <td width="78" height="61">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="19" valign="top"><span class="STYLE16"><a href="film.html" target="_blank" class="a">电 影</a></span></td>
+          </tr>
+        </table></td>
+        <td></td>
+        <td rowspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#333333">
+          <!--DWLayoutTable-->
+          <tr>
+            <td width="81" height="63">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="17" valign="top"><span class="STYLE18"><a href="music.html" target="_blank" class="a">音 乐</a></span></td>
+          </tr>
+        </table></td>
+        <td></td>
+        <td rowspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#333333">
+          <!--DWLayoutTable-->
+          <tr>
+            <td width="78" height="62">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="18" valign="top"><span class="STYLE16"><a href="vision.html" target="_blank" class="a">视 觉</a> </span></td>
+          </tr>
+        </table></td>
+        <td></td>
+        <td rowspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#333333">
+          <!--DWLayoutTable-->
+          <tr>
+            <td width="79" height="60">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="20" valign="top"><span class="STYLE20"><a href="me.html" target="_blank">M E</a></span></td>
+          </tr>
+        </table></td>
+        <td></td>
+        <td rowspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#333333">
+          <!--DWLayoutTable-->
+          <tr>
+            <td width="80" height="59">&nbsp;</td>
+          </tr>
+          <tr>
+            <td height="21" valign="top" class="STYLE18"><a href="foot.html" target="_blank" class="a">足 迹</a></td>
+          </tr>
+        </table></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td height="23"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td width="153" height="23">&nbsp;</td>
+    <td width="132">&nbsp;</td>
+    <td width="16">&nbsp;</td>
+    <td width="244">&nbsp;</td>
+    <td width="14">&nbsp;</td>
+    <td width="660">&nbsp;</td>
+    <td width="121">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="250" colspan="7" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#CCFFFF">
+      <!--DWLayoutTable-->
+      <tr>
+        <td width="155" height="20">&nbsp;</td>
+        <td width="20" valign="top" bgcolor="#66FF00"><!--DWLayoutEmptyCell-->&nbsp;</td>
+        <td width="15">&nbsp;</td>
+        <td width="20" valign="top" bgcolor="#66CC00"><!--DWLayoutEmptyCell-->&nbsp;</td>
+        <td width="15">&nbsp;</td>
+        <td width="20" valign="top" bgcolor="#669900"><!--DWLayoutEmptyCell-->&nbsp;</td>
+        <td width="35">&nbsp;</td>
+        <td width="16">&nbsp;</td>
+        <td width="55">&nbsp;</td>
+        <td width="14">&nbsp;</td>
+        <td width="55">&nbsp;</td>
+        <td width="15">&nbsp;</td>
+        <td width="125">&nbsp;</td>
+        <td width="16">&nbsp;</td>
+        <td width="125">&nbsp;</td>
+        <td width="14">&nbsp;</td>
+        <td width="125">&nbsp;</td>
+        <td width="500">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="13"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="55"></td>
+        <td colspan="3" valign="top" bgcolor="#669900"><!--DWLayoutEmptyCell-->&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td valign="top" bgcolor="#66CC00"><!--DWLayoutEmptyCell-->&nbsp;</td>
+        <td>&nbsp;</td>
+        <td valign="top" bgcolor="#66EE00"><!--DWLayoutEmptyCell-->&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="13"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="125"></td>
+        <td colspan="6" valign="top" bgcolor="#669900"><!--DWLayoutEmptyCell-->&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td valign="top" bgcolor="#66AA00"><!--DWLayoutEmptyCell-->&nbsp;</td>
+        <td>&nbsp;</td>
+        <td valign="top" bgcolor="#66BB00"><!--DWLayoutEmptyCell-->&nbsp;</td>
+        <td>&nbsp;</td>
+        <td valign="top" bgcolor="#66CC00"><!--DWLayoutEmptyCell-->&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="24"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="249">&nbsp;</td>
+    <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#CCFFFF">
+      <!--DWLayoutTable-->
+      <tr>
+        <td width="14" height="10"></td>
+        <td width="54"></td>
+        <td width="7"></td>
+        <td width="19"></td>
+        <td width="11"></td>
+        <td width="27"></td>
+      </tr>
+      <tr>
+        <td height="4"></td>
+        <td rowspan="3" valign="top" class="STYLE32">生命</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td height="18"></td>
+        <td></td>
+        <td valign="top"><span class="STYLE31">的</span></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td height="2"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td height="7"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td height="203"></td>
+        <td colspan="4" valign="top"><p class="STYLE31">美 丽 在</p>
+              <p class="STYLE31">于 经 历</p>
+          <p class="STYLE31"> 人 生 的</p>
+          <p class="STYLE31"> 百 味 在</p>
+          <p class="STYLE31"> 于 品 尝</p></td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="5"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </table></td>
+    <td>&nbsp;</td>
+    <td rowspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <!--DWLayoutTable-->
+      <tr>
+        <td width="244" height="268" valign="top"><img src="../image/yan zi.jpg" width="244" height="268" /></td>
+      </tr>
+      <tr>
+        <td height="4"></td>
+      </tr>
+      <!--DWLayoutTable-->
+    </table></td>
+    <td>&nbsp;</td>
+    <td rowspan="3" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <!--DWLayoutTable-->
+      <tr>
+        <td width="660" height="348" valign="top"><img src="../image/HE BEN.jpg" width="660" height="347" /></td>
+      </tr>
+      <!--DWLayoutTable-->
+    </table></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="23">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="76">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="59">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<EMBED NAME='CS1397048986749' SRC='../music/wuxianda.mp3' LOOP=false 
+AUTOSTART=false MASTERSOUND HIDDEN=true WIDTH=0 HEIGHT=0></EMBED>
+</body>
+</html>
