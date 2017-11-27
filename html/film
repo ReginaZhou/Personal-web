@@ -1,0 +1,644 @@
+<style type="text/css">
+<!--
+.STYLE1 {
+	font-size: 16px;
+	font-family: "华文行楷";
+	color: #663300;
+}
+.STYLE4 {
+	font-size: 16px;
+	color: #666600;
+	font-family: "幼圆";
+}
+.STYLE6 {
+	font-size: 36px;
+	font-family: "幼圆";
+	color: #669900;
+}
+.STYLE10 {font-size: 14px; color: #663300; font-family: "幼圆"; }
+.STYLE11 {font-size: 16px; color: #663300; font-family: "华文行楷"; }
+.STYLE12 {font-size: 16px; color: #663300; font-family: "华文行楷"; }
+.STYLE14 {
+	font-size: 17px;
+	color: #663300;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+}
+-->
+</style>
+<table width="1340" border="0" cellpadding="0" cellspacing="0" bgcolor="#CCFFFF">
+  <!--DWLayoutTable-->
+  <tr>
+    <td height="185" colspan="25" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <!--DWLayoutTable-->
+      <tr>
+        <td width="1341" height="124" valign="top"><img src="../image/daohang.png" width="1340" height="124" border="0" usemap="#Map" />
+          <map name="Map" id="Map">
+              <area shape="rect" coords="1173,76,1231,102" href="foot.html" target="_self" />
+              <area shape="rect" coords="1051,80,1088,102" href="me.html" target="_self" />
+              <area shape="rect" coords="925,79,987,104" href="vision.html" target="_self" />
+              <area shape="rect" coords="805,81,860,104" href="music.html" target="_self" />
+              <area shape="rect" coords="684,78,741,102" href="film.html" target="_self" />
+              <area shape="rect" coords="558,77,613,102" href="trip.html" target="_self" />
+              <area shape="rect" coords="436,77,511,106" href="friend.html" target="_self" />
+              <area shape="rect" coords="33,13,317,105" href="index.html" target="_blank" />
+                    </map></td>
+        </tr>
+      <tr>
+        <td height="61">&nbsp;</td>
+      </tr>
+      
+    </table></td>
+  </tr>
+  <tr>
+    <td width="132" height="13">&nbsp;</td>
+    <td width="15">&nbsp;</td>
+    <td width="86">&nbsp;</td>
+    <td width="119">&nbsp;</td>
+    <td width="13">&nbsp;</td>
+    <td width="22">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="10">&nbsp;</td>
+    <td width="25">&nbsp;</td>
+    <td width="57">&nbsp;</td>
+    <td width="63">&nbsp;</td>
+    <td width="23">&nbsp;</td>
+    <td width="48">&nbsp;</td>
+    <td width="41">&nbsp;</td>
+    <td width="45">&nbsp;</td>
+    <td width="186">&nbsp;</td>
+    <td width="7">&nbsp;</td>
+    <td width="16">&nbsp;</td>
+    <td width="7">&nbsp;</td>
+    <td width="44">&nbsp;</td>
+    <td width="29">&nbsp;</td>
+    <td width="138">&nbsp;</td>
+    <td width="14">&nbsp;</td>
+    <td width="22">&nbsp;</td>
+    <td width="168">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="37">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="7" rowspan="5" valign="top"><img src="../image/stranger.jpg" width="341" height="211" /></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <tr>
+    <td height="59">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="7" rowspan="3" valign="top"><p class="STYLE4">《一个陌生女人的来信》</p>
+      <p class="STYLE10">导演：徐静蕾</p>
+      <p class="STYLE10">主演：徐静蕾 姜文</p>
+    <p class="STYLE10">地区：中国大陆</p>      <p class="STYLE10">类型：剧情 爱情</p></td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="50">&nbsp;</td>
+    <td colspan="2" valign="top" bgcolor="#333333"><span class="STYLE6">电 影</span></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td height="62">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td valign="top"><p class="STYLE1">人生自是有情痴</p>      <p class="STYLE11">此恨不关风与月</p></td>
+  <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  
+  
+  
+  <tr>
+    <td height="3"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td height="110"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  
+  
+  
+  
+  
+  <tr>
+    <td height="65">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="4" rowspan="5" valign="top"><img src="../image/barbie.jpg" width="240" height="302" /></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="8" rowspan="2" valign="top"><img src="../image/spring.jpg" width="432" height="248" /></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="183">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="3" rowspan="3" valign="top"><p class="STYLE4">《芭比》</p>
+      <p class="STYLE10">导演：李相宇</p>
+      <p class="STYLE10">主演：李天熙 金赛纶</p>
+      <p class="STYLE10"> 金亚伦 凯特·特波</p>
+    <p class="STYLE10">地区：韩国</p>      <p class="STYLE10">类型：剧情</p></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  
+  
+  <tr>
+    <td height="14">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  
+  
+  <tr>
+    <td height="15">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="3" rowspan="6" valign="top"><p class="STYLE4">《放牛班的春天》</p>
+      <p class="STYLE10">导演：克里斯托夫·巴拉蒂</p>
+      <p class="STYLE10">主演：杰拉尔·朱诺</p>
+      <p class="STYLE10">狄迪尔·弗拉蒙</p>
+    <p class="STYLE10">地区：法国</p>      <p class="STYLE10">类型：剧情 音乐</p></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="39">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="3" rowspan="3" valign="top"><p class="STYLE12">一个落魄的艺术行侠</p>
+    <p class="STYLE12">一个仓皇的生活男人</p>      <p class="STYLE12">一个另类的学监教师</p></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  
+  
+  
+  
+  <tr>
+    <td height="19">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="31">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="6" rowspan="2" valign="top"><p class="STYLE11">顺英和顺子，一个是人们向往的品质</p>      <p class="STYLE12">一个则是无法掩饰的人性</p></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td height="22">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="55">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td height="48"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  
+  
+  
+  
+  
+  
+  
+  
+  <tr>
+    <td height="85"></td>
+    <td colspan="6" rowspan="3" valign="top"><img src="../image/cast away.jpg" width="263" height="303" /></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td height="15"></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="5" rowspan="8" valign="top"><img src="../image/once.jpg" width="247" height="336" /></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td height="210"></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td colspan="2" rowspan="2" valign="top"><p class="STYLE4">《ONCE》</p>
+      <p class="STYLE10">导演：约翰·卡尼</p>
+      <p class="STYLE10">主演：格伦·汉塞德 玛可塔·伊尔格洛娃</p>
+      <p class="STYLE10"> Alaistair Foley</p>
+    <p class="STYLE10">地区：爱尔兰</p>      <p class="STYLE10">类型：剧情 音乐</p></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td height="15">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td height="22">&nbsp;</td>
+    <td colspan="9" rowspan="2" valign="top"><p class="STYLE14">“At the edge of the world, his journey begins”</p></td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td height="16">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td colspan="4" rowspan="3" valign="top"><p class="STYLE4">&nbsp;</p>      <p class="STYLE1">通过歌声来表达情感的情侣，他们之间的爱情，不求回报</p></td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  
+  
+  
+  <tr>
+    <td height="27"></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td height="26"></td>
+    <td colspan="4" rowspan="3" valign="top"><p class="STYLE4">《荒岛余生》</p>
+      <p class="STYLE10">导演：罗伯特·泽米吉斯</p>
+      <p class="STYLE10">主演：汤姆·汉克 ，海伦·亨特</p>
+      <p class="STYLE10"> 尼克·西塞，Nick Searcy</p>
+    <p class="STYLE10">地区：美国</p>      <p class="STYLE10">类型：剧情 冒险</p></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td height="23"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  
+  <tr>
+    <td height="141"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td height="128"></td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td></td>
+  </tr>
+</table>
